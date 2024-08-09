@@ -2,7 +2,7 @@
 
 meu nome é Kauã Cariry
 
-- Estou estudando na Alura;
+- Estou estudando na [Alura](https://www.alura.com.br)
 - Estou me desenvolvendo na linguagem JavaScript
 - Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
 
@@ -12,4 +12,4 @@ kauacariry485@gmail.com
 
 @kauanzin7xs_
 
-![](https://tenor.com/pt-BR/view/epic-skate-cat-gif-1007265031726723627)
+![](https://media1.tenor.com/m/DfqGNaq-cisAAAAC/epic-skate-cat.gif)
